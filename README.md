@@ -1,8 +1,3 @@
-
-
-<!--
-**Kong12384abc/Kong12384abc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h2>KGNZ!</h2>
 <strong>Contectme:</strong>
 <br>
