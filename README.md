@@ -53,9 +53,9 @@ const KGNZ = {
     }
 };
 ```
-<a href="https://github.com/BossNzXD">
+<a href="https://github.com/Kong12384abc">
   <img height="230" align="center" src="https://github-readme-stats.vercel.app/api?username=Kong12384abc&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
-<a href="https://github.com/BossNzXD">
+<a href="https://github.com/Kong12384abc">
   <img height="230" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kong12384abc&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </a>
