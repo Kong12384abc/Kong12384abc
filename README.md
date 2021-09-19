@@ -1,3 +1,6 @@
+<p align="center">
+  <a href="kgnz.xyz"><img src="siesta.jpg" alt="kgnz Banner"></a>
+</p>
 <h1 align="center">Hi , I'm KGNZ</h1>
 <p align="center">
   <a href="https://github.com/Kong12384abc"><img src="https://github-readme-stats.vercel.app/api?username=Kong12384abc&hide_border=true&show_icons=true" alt="Kong12384abc's github stats"></a>
