@@ -48,13 +48,7 @@
       alt="angular" width="40" height="40" />
   </a>
 
-  <!--start nx -->
-  <a href="https://nx.dev" target="_blank" rel="noreferrer">
 
-    <img src="https://media.discordapp.net/attachments/897132356220096524/952082611688329247/nxx.png" alt="nx"
-      width="40" height="40" />
-  </a>
-  <!--end nx-->
 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
