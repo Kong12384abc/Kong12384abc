@@ -65,11 +65,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"
       alt="asp.net" width="40" height="40" />
   </a>
-
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" />
-  </a>
 </p>
 <p="center">
   <strong><a href="http://www.kgnz.xyz">Official Website</a></strong> |
