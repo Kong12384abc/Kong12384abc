@@ -47,8 +47,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"
       alt="angular" width="40" height="40" />
   </a>
-
-
+  <a href="https://nx.dev" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/Kong12384abc/Kong12384abc/main/nxnxnx.svg"
+      alt="nx" width="40" height="40" />
+  </a>
 
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
