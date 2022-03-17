@@ -51,7 +51,10 @@
     <img src="https://raw.githubusercontent.com/Kong12384abc/Kong12384abc/main/nxnxnx.svg"
       alt="nx" width="40" height="40" />
   </a>
-
+<a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg"
+      alt="nuxt" width="40" height="40" />
+  </a>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
       alt="laravel" width="40" height="40" />
