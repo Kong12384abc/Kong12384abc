@@ -31,6 +31,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby"
       width="40" height="40" />
   </a>
+  <a href="https://elixir-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="elixir"
+      width="40" height="40" />
+  </a>
   </a>
   <a href="" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash"
@@ -47,9 +51,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"
       alt="angular" width="40" height="40" />
   </a>
-  <a href="https://nx.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/Kong12384abc/Kong12384abc/main/nxnxnx.svg"
-      alt="nx" width="40" height="40" />
+  <a href="https://www.phoenixframework.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/phoenix/phoenix-original.svg"
+      alt="phoenix" width="40" height="40" />
   </a>
 <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuxtjs/nuxtjs-original.svg"
