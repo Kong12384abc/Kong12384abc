@@ -11,8 +11,8 @@
 <h3 align="left">my Languages :</h3>
 <p align="center"></p>
 <p align="left">
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp"
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus"
       width="40" height="40" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
@@ -59,10 +59,7 @@
       width="40" height="40" />
   </a>
 
-  <a href="https://asp.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg"
-      alt="asp.net" width="40" height="40" />
-  </a>
+
 </p>
 <p="center">
   <strong><a href="http://www.kgnz.xyz">Official Website</a></strong> |
