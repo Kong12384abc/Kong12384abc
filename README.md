@@ -58,6 +58,7 @@
     <img src="https://raw.githubusercontent.com/gofiber/docs/master/static/fiber_v2_logo.svg" alt="fiber"
       width="40" height="40" />
   </a>
+  
 
 
 </p>
