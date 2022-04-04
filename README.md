@@ -35,8 +35,8 @@
 </p>
 <h3 align="left">My Frameworks :</h3>
 <p align="left">
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nest"
+  <a href="https://adonisjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/adonisjs/adonisjs-original.svg" alt="adonis"
       width="40" height="40" />
   </a>
   
